@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "NewLogo.png",
+      "filename" : "LogoApps.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -13,7 +13,7 @@
           "value" : "dark"
         }
       ],
-      "filename" : "NewLogo 1.png",
+      "filename" : "LogoApps 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -25,7 +25,7 @@
           "value" : "tinted"
         }
       ],
-      "filename" : "NewLogo 2.png",
+      "filename" : "LogoApps 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"

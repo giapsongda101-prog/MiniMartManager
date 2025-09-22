@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "774F1584-5518-46DA-A1A0-C432DC5ED3D2",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:MiniMartManager.xcodeproj",
+      "identifier" : "386873622E727BD500EF77BB",
+      "name" : "MiniMartManager"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:MiniMartManager.xcodeproj",
+        "identifier" : "386873712E727BD700EF77BB",
+        "name" : "MiniMartManagerTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:MiniMartManager.xcodeproj",
+        "identifier" : "3868737B2E727BD700EF77BB",
+        "name" : "MiniMartManagerUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
